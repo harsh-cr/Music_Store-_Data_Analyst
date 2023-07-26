@@ -1,4 +1,4 @@
-Objective:-
+**Objective:-**
 In this project I have examine the dataset with SQL and help the store understand its business growth.
 Features -
 1. User interactive Presentation, can be seen in my repository
@@ -13,8 +13,7 @@ Features -
 10. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.
 11. Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.
 12. Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.
-Tech Stack Used
-![image](https://github.com/harsh-cr/Music_Store-_Data_Analyst/assets/76110222/d7735e61-0167-462a-ac6c-560dae89a613)![image](https://github.com/harsh-cr/Music_Store-_Data_Analyst/assets/76110222/8df9c2f7-566d-43e1-9ef4-3a60f2690a6c)
 
-DATA OVERVIEW
-![image](https://github.com/harsh-cr/Music_Store-_Data_Analyst/assets/76110222/cab4965b-53af-4c5c-bd66-bac4775da6ca)
+Tech Stack Used
+
+![image](https://github.com/harsh-cr/Music_Store-_Data_Analyst/assets/76110222/d7735e61-0167-462a-ac6c-560dae89a613)![image](https://github.com/harsh-cr/Music_Store-_Data_Analyst/assets/76110222/8df9c2f7-566d-43e1-9ef4-3a60f2690a6c)
