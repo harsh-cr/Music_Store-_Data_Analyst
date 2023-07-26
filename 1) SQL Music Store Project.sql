@@ -1,4 +1,4 @@
-SQL File 
+
 -- 1) Creating Database
 
 CREATE DATABASE Music_Store_Project ;
